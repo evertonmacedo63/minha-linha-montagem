@@ -22,3 +22,26 @@
 
 ### ⭐ Nota / Conceito
 (Preencha se desejar usar nota ou conceito)
+## Avaliação do Projeto
+
+**Aluno:**  
+**Fork:**  
+**Atividade:**  
+
+---
+
+### ✔ Itens avaliados
+- [ ] Estrutura do código
+- [ ] Organização do repositório
+- [ ] Funcionalidade
+- [ ] Boas práticas
+- [ ] Entrega no prazo
+
+---
+
+### Comentários do professor
+(Escreva aqui)
+
+---
+
+### ⭐ Nota / Conceito
